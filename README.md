@@ -1,4 +1,4 @@
-**# keyword-splitting from the File name 
+<b><i># keyword-splitting from the File name 
 
 Output :
 IN Pyrogram You Can Use 
@@ -10,4 +10,4 @@ In Pyrogram You Can Use Just Edit Last Line OF code:
 
 print(f"keyword :<code>{keyword[0:re]}</code> \n\nTitle :<b>{file_}</b>")
 
-I Know Its Simple Logic .Just For Fun **
+I Know Its Simple Logic .Just For Fun </b></i>
